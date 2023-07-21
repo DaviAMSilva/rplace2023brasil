@@ -8,7 +8,7 @@ https://github.com/DaviAMSilva/rplace2023brasil/raw/main/templateManager.user.js
 
 3. Acesse o Reddit Place e recarrega a sua guia
 
-4. Você deve ver um mensagem em vermelho na esquerda e um botão com um símbolo de configuração flutuante na sua direita. Se uma página abrir pedindo permissão, clique em "Always Allow"
+4. Você deve ver um mensagem em vermelho na esquerda e um botão com um símbolo de configuração flutuante na sua direita. Se uma página abrir pedindo permissão, clique em "Always Allow Domain"
 
 5. Clique no botão de configuração
 
