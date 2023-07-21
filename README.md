@@ -21,3 +21,6 @@ https://raw.githubusercontent.com/DaviAMSilva/rplace2023brasil/main/brasil.json
 
 # Organização e contato:
 https://discord.gg/r-br
+
+# Template Atual:
+![Template Atual](https://github.com/DaviAMSilva/rplace2023brasil/blob/main/bandeira_inferior.png?raw=true)
