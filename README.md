@@ -4,7 +4,7 @@
 https://www.tampermonkey.net/
 
 2. Clique no link abaixo para instalar o script:
-https://github.com/DaviAMSilva/rplace2023brasil/raw/main/dist/templateManager.user.js
+[https://github.com/DaviAMSilva/rplace2023brasil/raw/main/dist/templateManager.user.js](https://github.com/DaviAMSilva/rplace2023brasil/raw/main/templateManager.user.js)
 
 3. Acesse o Reddit Place e recarrega a sua guia
 
