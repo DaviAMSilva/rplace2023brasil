@@ -1,13 +1,13 @@
 {
-    "contact": "https://discord.gg/3XY8zXKT",
+    "contact": "https://discord.gg/r-br",
     "templates": [
         {
-            "name": "Bandeira Inferior",
+            "name": "Brazil",
             "sources": [
-                "https://raw.githubusercontent.com/DaviAMSilva/rplace2023brasil/main/bandeira_inferior.png"
+                "https://raw.githubusercontent.com/PakuPacu/json-r-place-brazil/main/new%20template.png"
             ],
-            "x": 647,
-            "y": 782
+            "x": 648,
+            "y": 783
         }
     ],
     "whitelist": [],
