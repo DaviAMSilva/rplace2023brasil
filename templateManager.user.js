@@ -1,8 +1,8 @@
 
 // ==UserScript==
 // @namespace		littleendu.xyz
-// @downloadURL		https://github.com/DaviAMSilva/rplace2023brasil/raw/main/templateManager.user.js
-// @updateURL		https://github.com/DaviAMSilva/rplace2023brasil/raw/main/templateManager.user.js
+// @downloadURL		https://github.com/DaviAMSilva/rplace2023brasil/raw/main/dist/templateManager.user.js
+// @updateURL		https://github.com/DaviAMSilva/rplace2023brasil/raw/main/dist/templateManager.user.js
 // @match			https://pxls.space/
 // @match			https://new.reddit.com/r/place/*
 // @match			https://www.reddit.com/r/place/*
@@ -12,9 +12,9 @@
 // @grant			GM.setValue
 // @grant			GM.getValue
 // @connect			*
-// @name			template-manager
+// @name			Overlay do Brasil para o r/place 2023
 // @version			0.6.0
-// @description		Overlay do Brasil
+// @description		Overlay do Brasil para o r/place 2023
 // @author			LittleEndu, Mikarific, April, DaviAMSilva
 // @license			MIT
 //
