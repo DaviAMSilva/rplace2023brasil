@@ -1,15 +1,13 @@
-{
-    "contact": "https://discord.gg/r-br",
-    "templates": [
-        {
-            "name": "Brazil",
-            "sources": [
-                "https://raw.githubusercontent.com/PakuPacu/json-r-place-brazil/main/new template.png"
-            ],
-            "x": 648,
-            "y": 783
-        }
-    ],
-    "whitelist": [],
-    "blacklist": []
+
+  "templates": [
+    {
+      "name": "Bandeira principal",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1132009079926169680/1132382960813871124/place1.png"
+      ],
+      "x": 1148,
+      "y": 782
+    }
+  ],
+  "blacklist": []
 }
