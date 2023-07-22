@@ -6,7 +6,7 @@
 1. Você deve ver um mensagem em vermelho na direita e um botão com um símbolo de configuração flutuante na sua esquerda.
 1. Clique no botão de configuração. Onde está escrito "Template URL" insira o link do template a seguir e clique em "Always Load":
 ```
-https://raw.githubusercontent.com/PakuPacu/json-r-place-brazil/main/brasil.json
+https://rentry.co/pw99t/raw
 ```
 6. Se uma página abrir pedindo permissão, clique em "Always Allow Domain". Recarregue a guia do Reddit Place para ter certeza
 6. Você agora deve ver o overlay do Brasil em cima do Reddit Place na forma de pequenos quadrados em cima dos pixels. Você pode esconder temporariamente o overlay no botão de configuração.
